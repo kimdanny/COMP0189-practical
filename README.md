@@ -11,6 +11,8 @@ You have two options:
 2) using python `virtualenv`:  
 - [Python VirtualEnv](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-01/Virtualenv.md)
 
+If you do not wish to set up a local environment or run it online for initial experiments, you can open the [Google Colab](https://colab.research.google.com) and search for this repository (https://github.com/kimdanny/COMP0189-practical) to open and run.
+
 
 <!-- ## Week 2
 ## Week 3
