@@ -80,7 +80,7 @@ Into this new _comp0189_ environment, we will install the basic modules for usin
 
 This installation will take a bit of time so may want to run them in the background whilst you are engaged on another task.
 
-We shall be using two more packages in the not too distant future (which are also referred briefly in the Slides) and we shall install these as well.
+We shall be using two more packages in the not too distant future and we shall install these as well.
 
 ```
 (comp0189) $ pip install matplotlib==3.6.0
