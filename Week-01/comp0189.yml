@@ -1,0 +1,12 @@
+name: comp0189
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.5
+  - numpy=1.19.1
+  - pip:
+    - jupyter==1.0.0
+    - matplotlib==3.3.3
+    - pandas==1.1.4
+    - scipy==1.5.4
