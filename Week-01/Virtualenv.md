@@ -49,3 +49,6 @@ Access to your environment and do things you need:
 (comp0189) $ pip install --upgrade pip
 (comp0189) $ pip install numpy==1.19.1
 ```
+
+#### Acknowledgement
+https://kimdanny.github.io/blog/deep-learning/virtualenv/
