@@ -99,7 +99,9 @@ To create the _comp0189_ environment from a configuration file you first need to
 (base) $ conda env create --file comp0189.m1.yml
 ```
 
-This file will install all python modules and tools needed for you to work in this module. To check the content of this file you can open it with your favourite text editor or type:
+This file will install all python modules and tools needed for you to work in this module. 
+Also, this file will be updated with other packages as week goes on.
+To check the content of this file you can open it with your favourite text editor or type:
 
 ```
 $ cat comp0189.m1.yml
