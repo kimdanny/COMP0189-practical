@@ -23,12 +23,12 @@ The standard distribution of Anaconda is bundled together with an extensive libr
 There are two ways to install Conda for arm64.
 If you already have Anaconda installed on your computer, you do not need to reinstall it again.
 
-#### 1. Anaconda distribution
+#### Option 1. Anaconda distribution
 
 Go to the [Anaconda](https://www.anaconda.com/distribution/) website and click **Get Additional Installers**.
 Then choose to download the **64-Bit (M1) Graphical Installer**.
 
-#### 2. Miniforge3
+#### Option 2. Miniforge3 (recommended)
 
 Go to the [Miniforge](https://github.com/conda-forge/miniforge) GitHub repository.
 Check the README section to download the **Miniforge3-MacOSX-arm64**.
@@ -55,9 +55,7 @@ Anaconda is installed with a single environment called _base_. It is good practi
 
 For instructive purposes we provide two equivalent ways to set this up, manually or using an anaconda configuration file. The first way it is generally used when you start a new project and you are not sure which python modules and tools you will be using. The latter is used when you know already what you need.
 
-#### Manually (not recommended for M1)
-_Unlike the instruction for intel-chips, manual way is not recommended as you will need a very specific versions of packages to avoid any possible errors._
-
+#### Manually
 We shall set up the environment to run Python 3.8. If you wanted to create another environment with a different version of Python, change the version number accordingly.
 
 Type the following (type Y to proceed when prompted).
@@ -115,6 +113,6 @@ After the environment has been created, activate the environment.
 
 ## Test the Installation
 
-Unlike the Anaconda for intel-chip, Anaconda for M1-chip does not support Anaconda-Navigator yet.
-
+Unlike the Anaconda for intel-chip, Anaconda for M1-chip does not support Anaconda-Navigator (GUI for Conda) smoothly.
+We don't recommend using Anaconda-Navigator.
 To use jupyter notebook, you should type `jupyter notebook` in the command line.
