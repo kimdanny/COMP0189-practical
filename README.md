@@ -6,7 +6,7 @@ You have two options:
 
 1) using Anaconda:  
 - [Anaconda Guide for general](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-01/Anaconda.md)
-- [Anaconda Guid for M1/M2 MacBooks](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-01/Anaconda_for_M1.md)
+- [Anaconda Guide for M1/M2 MacBooks](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-01/Anaconda_for_M1.md)
 
 2) using python `virtualenv`:  
 - [Python VirtualEnv](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-01/Virtualenv.md)
