@@ -1,4 +1,4 @@
-name: geospatial
+name: comp0189
 channels:
   - conda-forge
   - defaults
