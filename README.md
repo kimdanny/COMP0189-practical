@@ -14,8 +14,11 @@ You have two options:
 If you do not wish to set up a local environment or run it online for initial experiments, you can open the [Google Colab](https://colab.research.google.com) and search for this repository (https://github.com/kimdanny/COMP0189-practical) to open and run.
 
 
-<!-- ## Week 2
-## Week 3
+## Week 2 (Preprocessing)
+[Problem notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-02/week2-problem.ipynb)
+
+
+<!-- ## Week 3
 ## Week 4
 ## Week 5
 ## Week 6 -->
