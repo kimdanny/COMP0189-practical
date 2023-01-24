@@ -15,7 +15,11 @@ If you do not wish to set up a local environment or run it online for initial ex
 
 
 ## Week 2 (Preprocessing)
-[Problem notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-02/week2-problem.ipynb)
+[Problem notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-02/week2-problem.ipynb)  
+[Solution notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-02/week2-solution.ipynb)
+
+
+## Week 3 (Model selection and assessments)
 
 
 <!-- ## Week 3
