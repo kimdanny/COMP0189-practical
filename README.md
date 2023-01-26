@@ -20,6 +20,7 @@ If you do not wish to set up a local environment or run it online for initial ex
 
 
 ## Week 3 (Model selection and assessments)
+[Problem notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-03/week3-problem.ipynb)  
 
 
 <!-- ## Week 3
