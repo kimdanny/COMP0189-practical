@@ -21,9 +21,10 @@ If you do not wish to set up a local environment or run it online for initial ex
 
 ## Week 3 (Model selection and assessments)
 [Problem notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-03/week3-problem.ipynb)  
+[Solution notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-03/week3-solution.ipynb)
 
 
-<!-- ## Week 3
-## Week 4
-## Week 5
-## Week 6 -->
+## Week 4 (PRoNTo)
+Install MATLAB and SPM12 to install PRoNTO software from [here](http://www.mlnl.cs.ucl.ac.uk/pronto/prtsoftware.html)
+
+
