@@ -25,6 +25,6 @@ If you do not wish to set up a local environment or run it online for initial ex
 
 
 ## Week 4 (PRoNTo)
-Install MATLAB and SPM12 to install PRoNTO software from [here](http://www.mlnl.cs.ucl.ac.uk/pronto/prtsoftware.html)
-
+Install MATLAB and SPM12 to install PRoNTO software from [here](http://www.mlnl.cs.ucl.ac.uk/pronto/prtsoftware.html)  
+[Lab Demo and Homework Instructions](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-04/week4-problem.md)
 
