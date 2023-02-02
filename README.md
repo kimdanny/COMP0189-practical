@@ -25,7 +25,9 @@ If you do not wish to set up a local environment or run it online for initial ex
 
 
 ## Week 4 (PRoNTo)
-Install PRoNTO software by reading the [Preparation Guideline](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-04/PRoNTo-Preparation.pdf)  
+- Install PRoNTO software by reading the [Preparation Guideline](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-04/PRoNTo-Preparation.pdf)  
+- Refer to the [PRoNTo Manual](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-04/prt-manual.pdf)
+
 [Dropbox link to all our resources](https://www.dropbox.com/sh/xx00oef3p4yo5na/AAA3aJlrUs-PcYfLsrpRCAU3a?dl=0)  
 [Instructions for Mac Users](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-04/instructions-for-mac.md)  
 [Lab Demo and Homework Instructions](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-04/week4-problem.md)
