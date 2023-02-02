@@ -1,5 +1,8 @@
 # Instructions for Mac Users
 
+Download all the necessary files from this [Dropbox link](https://www.dropbox.com/sh/xx00oef3p4yo5na/AAA3aJlrUs-PcYfLsrpRCAU3a?dl=0).
+
+
 ## (Necessary step) Disable Mac's Malware check 
 Since SPM12 and PRoNTo is downloaded from external developer, you will see many warning messages like "Application cannot be opened because the developer cannot be verified". This stops you from running PRoNTo.
 
