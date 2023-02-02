@@ -35,3 +35,5 @@ If you do not wish to set up a local environment or run it online for initial ex
 [OASIS Tutorials](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-04/OASIS-tutorials.pdf)  
 [Lab Demo and Homework Instructions](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-04/week4-problem.md)
 
+
+https://ucl.zoom.us/j/95397755786?pwd=MGRaTlQrQWJmT2VFTkxIRGRQRWF0QT09
