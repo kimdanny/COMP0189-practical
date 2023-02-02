@@ -27,7 +27,7 @@ If you do not wish to set up a local environment or run it online for initial ex
 ## Week 4 (PRoNTo)
 - Download all the resources needed from this [Dropbox link](https://www.dropbox.com/sh/xx00oef3p4yo5na/AAA3aJlrUs-PcYfLsrpRCAU3a?dl=0)
     - This dropbox folder contains the latest version (v3) of PRoNTo, SPM12, dataset, and analyses file used in the demo  
-- Open PRoNTO software by reading the [Preparation Guideline](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-04/PRoNTo-Preparation.pdf)  
+- Open PRoNTo software by reading the [Preparation Guideline](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-04/PRoNTo-Preparation.pdf)  
 - [Instructions for Mac Users](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-04/instructions-for-mac.md)  
 - Refer to the [PRoNTo Manual](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-04/prt-manual.pdf)
 
