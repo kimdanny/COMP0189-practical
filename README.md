@@ -34,3 +34,11 @@ If you do not wish to set up a local environment or run it online for initial ex
 
 [OASIS Tutorials](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-04/OASIS-tutorials.pdf)  
 [Lab Demo and Homework Instructions](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-04/week4-problem.md)
+
+
+## Week 5 (Feature selection, Trees, and Ensembles)
+[Optional Problem notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-05/week5-problem.ipynb)  
+Solution will be provided after everyone submits the first coursework.  
+
+## Week 6 (Deep Learning - image segmentation)
+[Google Colab notebook]()
