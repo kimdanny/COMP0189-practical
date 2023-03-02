@@ -41,4 +41,5 @@ If you do not wish to set up a local environment or run it online for initial ex
 Solution will be provided after everyone submits the first coursework.  
 
 ## Week 6 (Deep Learning - image segmentation)
-[Google Colab notebook]()
+[Local Notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-06/deepglobe_land_cover_classification.ipynb)
+[Open in Google Colab]
