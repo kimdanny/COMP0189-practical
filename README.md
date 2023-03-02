@@ -42,4 +42,4 @@ Solution will be provided after everyone submits the first coursework.
 
 ## Week 6 (Deep Learning - image segmentation)
 [Local Notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-06/deepglobe_land_cover_classification.ipynb)
-[Open in Google Colab]
+[Open in Google Colab](https://colab.research.google.com/github/kimdanny/COMP0189-practical/blob/main/Week-06/deepglobe_land_cover_classification.ipynb)
