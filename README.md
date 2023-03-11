@@ -45,6 +45,11 @@ Solution will be provided after everyone submits the first coursework.
 [Open in Google Colab](https://colab.research.google.com/github/kimdanny/COMP0189-practical/blob/main/Week-06/deepglobe_land_cover_classification.ipynb)
 
 
-## Week 7 (Dimensionality reduction and matrix decomposition)
+## Week 7 (Dimensionality reduction and matrix decomposition with clustering)
 [Problem notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-07/week7-problem.ipynb)  
-[Solution notebook]()  
+[Solution notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-07/week7-solution.ipynb) 
+
+## Week 8 (Reinforcement Learning)
+[Problem notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-08/week8-problem.ipynb)   
+[Solution notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-08/week8-solution.ipynb) 
+
