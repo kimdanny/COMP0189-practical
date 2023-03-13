@@ -50,6 +50,7 @@ Solution will be provided after everyone submits the first coursework.
 [Solution notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-07/week7-solution.ipynb) 
 
 ## Week 8 (Reinforcement Learning)
-[Problem notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-08/week8-problem.ipynb)   
-[Solution notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-08/week8-solution.ipynb) 
+[Problem notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-08/week8-problem.ipynb)  
+[Open problem in Google Colab](https://colab.research.google.com/github/kimdanny/COMP0189-practical/blob/main/Week-08/week8-problem.ipynb)  
+[Solution notebook](https://github.com/kimdanny/COMP0189-practical/blob/main/Week-08/week8-solution.ipynb)  
 
